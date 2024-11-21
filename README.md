@@ -56,4 +56,4 @@ This repository includes conceptual designs and does not contain functional back
 # Credits
 Designed and conceptualized by Sarah Mubarak as part of the DEPI Initiative.
 
-For any questions or inquiries, feel free to contact me at [sarahmubarak56789@gmail.com] or connect on LinkedIn at [https://www.linkedin.com/in/sarah-mubarak-0185332b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app], and mu Behance account is [https://www.behance.net/sarahmubarak2].
+For any questions or inquiries, feel free to contact me at [sarahmubarak56789@gmail.com] or connect on LinkedIn at [https://www.linkedin.com/in/sarah-mubarak-0185332b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app], and my Behance account is [https://www.behance.net/sarahmubarak2].
