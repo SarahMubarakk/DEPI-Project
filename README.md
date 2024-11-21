@@ -13,26 +13,26 @@ Design Platform: Created using Figma to showcase an intuitive and visually appea
 
 * User-Friendly Interface:
 
-A clean, intuitive design for effortless navigation.
-Suitable for users with little or no technical background.
+  A clean, intuitive design for effortless navigation.
+  Suitable for users with little or no technical background.
 
 * Product Listings:
 
-Easy browsing and searching of wholesale products.
-Well-organized categories for a seamless shopping experience.
+  Easy browsing and searching of wholesale products.
+  Well-organized categories for a seamless shopping experience.
 
 * Order Management:
 
-Simplified order processing for quick and efficient transactions.
-Designed to minimize the time required for managing purchases.
+  Simplified order processing for quick and efficient transactions.
+  Designed to minimize the time required for managing purchases.
 
 * Secure Transactions:
 
-Ensures reliability and trust through the integration of secure payment options.
+  Ensures reliability and trust through the integration of secure payment options.
 
 * Multilingual Support:
 
-Supports Arabic as the primary language, ensuring accessibility and convenience for Egyptian merchants.
+  Supports Arabic as the primary language, ensuring accessibility and convenience for Egyptian merchants.
 
 # Links to Project Files - Sphinx Sphere
 
