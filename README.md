@@ -1,16 +1,16 @@
 # DEPI-Project
-A showcase of UI/UX design projects created by Sarah Mubarak as part of the DEPI Initiative. These projects highlight creative and user-focused solutions, including:  Sphinx Sphere: A mobile app concept designed to simplify wholesale shopping for Egyptian merchants, emphasizing usability and accessibility.
-
-Sphinx Sphere - README
 Sphinx Sphere is a mobile application concept designed to enhance the wholesale shopping experience for Egyptian merchants. This project focuses on creating a user-friendly UI/UX design tailored to the needs of merchants, especially those with limited technical expertise.
 
 The app's design prioritizes simplicity, efficiency, and accessibility, making the wholesale purchasing and transaction management process more convenient.
 
 Project Overview
+
 Purpose: To simplify and streamline the wholesale buying process for Egyptian merchants.
 Target Audience: Merchants in Egypt, including those with minimal technical knowledge.
 Design Platform: Created using Figma to showcase an intuitive and visually appealing user experience.
+
 Features
+
 User-Friendly Interface
 
 A clean, intuitive design for effortless navigation.
