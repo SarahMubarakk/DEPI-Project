@@ -45,6 +45,9 @@ https://www.figma.com/design/5okL8oZexMCoqJEy9Yye2s/Untitled?node-id=0-1&t=YR5Qg
 Website and Mobile App: 
 https://www.figma.com/design/qCmvuRzWbE8jWdj2SxIrFq/EduVenture-Mubarak?node-id=0-1&t=1o4f7dHjSGLRtJhS-1
 
+# You can see my Designs in PDF format here: 
+https://drive.google.com/drive/folders/1-_9XsleR1QGRSfbVR5j1Nvhux0sZC5pG
+
 # Project Type
 Category: UI/UX Design
 Tools Used: Figma
@@ -53,4 +56,4 @@ This repository includes conceptual designs and does not contain functional back
 # Credits
 Designed and conceptualized by Sarah Mubarak as part of the DEPI Initiative.
 
-For any questions or inquiries, feel free to contact me at [your email] or connect on LinkedIn at [your email].
+For any questions or inquiries, feel free to contact me at [sarahmubarak56789@gmail.com] or connect on LinkedIn at [https://www.linkedin.com/in/sarah-mubarak-0185332b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app], and mu Behance account is https://www.behance.net/sarahmubarak2.
