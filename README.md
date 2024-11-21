@@ -29,14 +29,16 @@ Ensures reliability and trust through the integration of secure payment options.
 * Multilingual Support
 Supports Arabic as the primary language, ensuring accessibility and convenience for Egyptian merchants.
 
-# Links to Project Files  
-# Sphinx Sphere
+# Links to Project Files - Sphinx Sphere
 
-Case Study: https://www.figma.com/board/ShgiXVWYY42kgQTANe8OLb/Untitled?node-id=0-1&t=Dh2eFvvWnPzmvemZ-1
-UI Design Project: https://www.figma.com/design/5okL8oZexMCoqJEy9Yye2s/Untitled?node-id=0-1&t=YR5QgGTjvQbgxD5j-1
+# Case Study:
+https://www.figma.com/board/ShgiXVWYY42kgQTANe8OLb/Untitled?node-id=0-1&t=Dh2eFvvWnPzmvemZ-1
+# UI Design Project: 
+https://www.figma.com/design/5okL8oZexMCoqJEy9Yye2s/Untitled?node-id=0-1&t=YR5QgGTjvQbgxD5j-1
 
 # Additional Project - EduVenture Mubarak
-Website and Mobile App: https://www.figma.com/design/qCmvuRzWbE8jWdj2SxIrFq/EduVenture-Mubarak?node-id=0-1&t=1o4f7dHjSGLRtJhS-1
+Website and Mobile App: 
+https://www.figma.com/design/qCmvuRzWbE8jWdj2SxIrFq/EduVenture-Mubarak?node-id=0-1&t=1o4f7dHjSGLRtJhS-1
 
 # Project Type
 Category: UI/UX Design
